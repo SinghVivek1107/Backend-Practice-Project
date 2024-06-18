@@ -1,1 +1,1 @@
-This is a complete backend project
+This is a complete backend practice project
