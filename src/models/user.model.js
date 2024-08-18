@@ -75,7 +75,7 @@ userSchema.methods.generateAccessToken = function () {
   );
 };
 
-
+//jwt.sign(payload, secret key, expiresin)
 userSchema.methods.generateRefreshToken = function (){
     return jwt.sign(
         {
