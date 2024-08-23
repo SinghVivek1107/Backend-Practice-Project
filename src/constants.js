@@ -1,1 +1,1 @@
-export const DB_NAME = "nutube"
+export const DB_NAME = "StreamNest"
